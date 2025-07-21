@@ -25,3 +25,7 @@ PORT=5000
 MONGO_URI=mongodb+srv://<username>:<password>@test.qvkqw9e.mongodb.net/food_delivery?retryWrites=true&w=majority&appName=test
 JWT_SECRET=your_super_secret_jwt_key_need_to_be_long_as_it_is_secretkey
 ```
+### 4. Run
+```bash
+node index.js
+```
